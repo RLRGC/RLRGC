@@ -19,7 +19,7 @@ Passionné par l'informatique, les systèmes embarqués et l'ingénierie. Je me 
 #### 🚢 [Application de gestion d'une auto-école]
 * **Description :** Dans le cadre d'un projet scolaire, nous avons, avec deux autres collègues, développé une application de gestion d'une Auto Ecole
 * **Technos :** C# et MySQL.
-* **Lien : ** [https://github.com/antoinepriolmarguerite-byte/ProjetPI/releases/tag/Finished]
+* **Lien :** [https://github.com/antoinepriolmarguerite-byte/ProjetPI/releases/tag/Finished]
 
 #### ⚙️ [Projet de Terminale STI2D SIN]
 * **Description :** *À remplir plus tard
