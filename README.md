@@ -30,7 +30,7 @@ Passionné par l'informatique, les systèmes embarqués et l'ingénierie. Je me 
 
 ### 📫 Me contacter
 
-- **LinkedIn :** [LinkedIn|https://www.linkedin.com/in/ronan-le-rouzic-794ab42b0/]
+- **LinkedIn :** [https://www.linkedin.com/in/ronan-le-rouzic-794ab42b0/]
 - **Email :** ronan.lerouzic2@gmail.com
 - **Localisation :** Paris (La Défense) / Bretagne (Paimpol)
 
