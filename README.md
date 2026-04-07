@@ -2,7 +2,7 @@
 
 ### 🚀 Étudiant en 2ème année d'Ingénierie à l'ESILV | Ex-STI2D SIN
 
-Passionné par l'informatique, les systèmes embarqués et l'ingénierie. Je me suis posé une simple question, comment faire pour me simplifier la vie à l'aide de l'informatique.
+Passionné par l'informatique, les systèmes embarqués et l'ingénierie. Je me suis posé une simple question, comment faire pour me simplifier la vie à l'aide de l'informatique?
 
 ---
 
