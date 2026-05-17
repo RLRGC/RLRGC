@@ -8,7 +8,7 @@ Passionné par l'informatique, les systèmes embarqués et l'ingénierie. Je me 
 
 ### 🛠 Compétences Techniques
 
-- **Langages :** Python, C#, HTML/CSS/JS (Web statique), php/MySQL.
+- **Langages :** Python, C#, HTML/CSS/JS (Web statique), PHP/MySQL.
 - **Logiciels & Outils :** VSCode, Suite Office, Git/GitHub.
 - **Domaines d'intérêt :** Aéronautique, automatisation de tâches répétitives.
 
@@ -18,8 +18,8 @@ Passionné par l'informatique, les systèmes embarqués et l'ingénierie. Je me 
 
 #### 🚢 [Application de gestion d'une auto-école]
 * **Description :** Dans le cadre d'un projet scolaire, nous avons, avec deux autres collègues, développé une application de gestion d'une Auto Ecole
-* **Technos :** C# et MySQL.
-* **Lien :** [https://github.com/antoinepriolmarguerite-byte/ProjetPI/releases/tag/Finished]
+* **Technos :** `C#` et `MySQL`.
+* **Lien :** [https://github.com/](https://github.com/antoinepriolmarguerite-byte/ProjetPI/releases/tag/Finished)
 
 #### ⚙️ [Projet de Terminale STI2D SIN]
 * **Description :** *À remplir plus tard
@@ -30,7 +30,7 @@ Passionné par l'informatique, les systèmes embarqués et l'ingénierie. Je me 
 
 ### 📫 Me contacter
 
-- **LinkedIn :** [https://www.linkedin.com/in/ronan-le-rouzic-794ab42b0/]
+- **LinkedIn :** [https://www.linkedin.com/](https://www.linkedin.com/in/ronan-le-rouzic-794ab42b0/)
 - **Email :** ronan.lerouzic2@gmail.com
 - **Localisation :** Paris (La Défense) / Bretagne (Paimpol)
 
